@@ -13,7 +13,7 @@ sudo apt -y install vim
 # PHP Install
 sudo add-apt-repository ppa:ondrej/php
 sudo apt update
-sudo apt -y install php7.3 php7.3-xml php7.3-dev php7.3-fpm php7.3-mbstring
+sudo apt -y install php7.3 php7.3-xml php7.3-dev php7.3-fpm php7.3-mbstring php7.3-zip php7.3-curl
 
 # MySQL Install
 #sudo apt -y install mysql-server mysql-client php7.3-mysql
